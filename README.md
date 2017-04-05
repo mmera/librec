@@ -30,6 +30,8 @@ The procedure of LibRec is illustrated as follows.
 
 <div style="text-align:center;"><img src="http://librec.net/images/procedure.jpg" width="600" /> </div>
 
+<img src="http://librec.net/images/modules.png" height="30%" width="30%" /> 
+
 ### Download
 
 by maven
